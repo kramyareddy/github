@@ -1,1 +1,1 @@
-contribution guidelines
+contribution guidelines overview
